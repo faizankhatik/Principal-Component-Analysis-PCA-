@@ -46,9 +46,4 @@ The notebook includes a 2D scatter plot showing PCA-reduced data points colored 
 
 PCA helps to visualize how separable the classes (species) are in lower dimensions. The first two principal components usually capture the most variance in the dataset, giving us insight into the structure of the data.
 
-## 🛠 Future Improvements
-
-- Add 3D PCA visualization
-- Use other datasets for comparison
-- Combine with classification algorithms (e.g., Logistic Regression, SVM)
 
